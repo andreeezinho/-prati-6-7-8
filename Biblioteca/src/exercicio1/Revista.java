@@ -1,3 +1,5 @@
+package exercicio1;
+
 public class Revista extends ItemBiblioteca {
 
     public Revista(int codigo, String titulo) {

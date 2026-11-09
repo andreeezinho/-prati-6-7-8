@@ -1,3 +1,5 @@
+package exercicio1;
+
 public class Aluno extends Usuario {
 
     public Aluno(String nome) {
